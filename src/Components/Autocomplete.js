@@ -135,7 +135,7 @@ class Autocomplete extends Component {
           suggestionsListComponent= (
 
               <div className="content">
-                <ul className="suggestions">
+                <ul className = "suggestions">
                         {filteredSuggestions.map((suggestion, index) => {
                             let className;
       
@@ -177,7 +177,10 @@ class Autocomplete extends Component {
                     value={userInput}
                     placeholder="search something..."  
                 />
+                <div className = "content">
                 {suggestionsListComponent}
+
+                </div>
 
                 {/* below component will display the clicked user from suggested list, DOESN'T WORK ON ENTER KEY */}
                 {this.displayuser()}
