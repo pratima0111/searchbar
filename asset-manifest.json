@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pratima0111/searchbar.git/static/css/main.61bc5f2d.chunk.css",
-    "main.js": "/pratima0111/searchbar.git/static/js/main.7aef154e.chunk.js",
-    "main.js.map": "/pratima0111/searchbar.git/static/js/main.7aef154e.chunk.js.map",
-    "runtime-main.js": "/pratima0111/searchbar.git/static/js/runtime-main.494df62f.js",
-    "runtime-main.js.map": "/pratima0111/searchbar.git/static/js/runtime-main.494df62f.js.map",
-    "static/js/2.8e952e81.chunk.js": "/pratima0111/searchbar.git/static/js/2.8e952e81.chunk.js",
-    "static/js/2.8e952e81.chunk.js.map": "/pratima0111/searchbar.git/static/js/2.8e952e81.chunk.js.map",
-    "index.html": "/pratima0111/searchbar.git/index.html",
-    "static/css/main.61bc5f2d.chunk.css.map": "/pratima0111/searchbar.git/static/css/main.61bc5f2d.chunk.css.map",
-    "static/js/2.8e952e81.chunk.js.LICENSE.txt": "/pratima0111/searchbar.git/static/js/2.8e952e81.chunk.js.LICENSE.txt"
+    "main.css": "/searchbar/static/css/main.61bc5f2d.chunk.css",
+    "main.js": "/searchbar/static/js/main.7aef154e.chunk.js",
+    "main.js.map": "/searchbar/static/js/main.7aef154e.chunk.js.map",
+    "runtime-main.js": "/searchbar/static/js/runtime-main.55a1b1a5.js",
+    "runtime-main.js.map": "/searchbar/static/js/runtime-main.55a1b1a5.js.map",
+    "static/js/2.8e952e81.chunk.js": "/searchbar/static/js/2.8e952e81.chunk.js",
+    "static/js/2.8e952e81.chunk.js.map": "/searchbar/static/js/2.8e952e81.chunk.js.map",
+    "index.html": "/searchbar/index.html",
+    "static/css/main.61bc5f2d.chunk.css.map": "/searchbar/static/css/main.61bc5f2d.chunk.css.map",
+    "static/js/2.8e952e81.chunk.js.LICENSE.txt": "/searchbar/static/js/2.8e952e81.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.494df62f.js",
+    "static/js/runtime-main.55a1b1a5.js",
     "static/js/2.8e952e81.chunk.js",
     "static/css/main.61bc5f2d.chunk.css",
     "static/js/main.7aef154e.chunk.js"
